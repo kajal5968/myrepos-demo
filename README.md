@@ -1,4 +1,4 @@
 # myrepos-demo
 This is my first Git repository.
 <br>
-Author - Kajal Agrahari
+Author - Kajal Agrahari(Student Name)
